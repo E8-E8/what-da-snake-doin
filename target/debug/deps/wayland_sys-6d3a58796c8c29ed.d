@@ -1,0 +1,11 @@
+/home/heisenberg/projects/snake_game/target/debug/deps/wayland_sys-6d3a58796c8c29ed.rmeta: /home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/lib.rs /home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/common.rs /home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/client.rs /home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/egl.rs /home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/cursor.rs
+
+/home/heisenberg/projects/snake_game/target/debug/deps/libwayland_sys-6d3a58796c8c29ed.rlib: /home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/lib.rs /home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/common.rs /home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/client.rs /home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/egl.rs /home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/cursor.rs
+
+/home/heisenberg/projects/snake_game/target/debug/deps/wayland_sys-6d3a58796c8c29ed.d: /home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/lib.rs /home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/common.rs /home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/client.rs /home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/egl.rs /home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/cursor.rs
+
+/home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/lib.rs:
+/home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/common.rs:
+/home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/client.rs:
+/home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/egl.rs:
+/home/heisenberg/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.9.10/src/cursor.rs:
