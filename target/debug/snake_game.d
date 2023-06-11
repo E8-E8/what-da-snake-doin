@@ -1,1 +1,0 @@
-/home/heisenberg/projects/snake_game/target/debug/snake_game: /home/heisenberg/projects/snake_game/src/draw.rs /home/heisenberg/projects/snake_game/src/game.rs /home/heisenberg/projects/snake_game/src/main.rs /home/heisenberg/projects/snake_game/src/snake.rs
